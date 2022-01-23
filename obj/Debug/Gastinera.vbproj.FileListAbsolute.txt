@@ -1,0 +1,15 @@
+C:\Proyectos\Gastinera\bin\Debug\Gastinera.exe.config
+C:\Proyectos\Gastinera\bin\Debug\Gastinera.exe
+C:\Proyectos\Gastinera\bin\Debug\Gastinera.pdb
+C:\Proyectos\Gastinera\bin\Debug\Gastinera.xml
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.vbproj.AssemblyReference.cache
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.vbproj.SuggestedBindingRedirects.cache
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.vbproj.ResolveComReference.cache
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.Form1.resources
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.Resources.resources
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.Sonidos.resources
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.vbproj.GenerateResource.cache
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.vbproj.CoreCompileInputs.cache
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.exe
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.xml
+C:\Proyectos\Gastinera\obj\Debug\Gastinera.pdb
